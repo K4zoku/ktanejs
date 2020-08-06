@@ -1,0 +1,32 @@
+{
+  "name": "ktanejs",
+  "version": "1.0.0",
+  "description": "Keep Talking And Nobody Explodes Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takahatashun/ktanejs.git"
+  },
+  "keywords": [
+    "ktane",
+    "nodejs"
+  ],
+  "author": "LXC",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/takahatashun/ktanejs/issues"
+  },
+  "homepage": "https://github.com/takahatashun/ktanejs#readme",
+  "devDependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "minimist": "^1.2.5",
+    "zlib": "^1.0.5"
+  },
+  "dependencies": {
+    "stream": "0.0.2"
+  }
+}
